@@ -7,7 +7,11 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     path: Assets/_Scenes/MainScene.unity
+=======
+    path: Assets/_Scenes/SampleScene.unity
+>>>>>>> Stashed changes
 =======
     path: Assets/_Scenes/SampleScene.unity
 >>>>>>> Stashed changes
